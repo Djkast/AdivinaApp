@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdivinaApp</string>
+    <string name="adivinaapp">AdivinaApp</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="info">Info</string>
+    <string name="ad1" val="perro">Info</string>
+</resources>
